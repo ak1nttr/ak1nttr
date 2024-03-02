@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akın Tatar
 ==================================================================================================================================
 
-Student Web Developer
+CSE Student Web Developer
 ---------------------
 
 Sophomore cse student who is really interested in backend programming and looking for new horizons
