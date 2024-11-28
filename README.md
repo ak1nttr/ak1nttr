@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
  🌍 I'm based in Antalya Turkiye<br> ✉️ You can contact me at nsnr6458@gmail.com<br> 🚀 I'm currently working on Backend Web Development<br> 🧠  I'm learning Java Spring and C# - ASP.NET-Core<br> 🤝 I'm open to collaborating on Java , C# , Kotlin , TypeScript Skills
 
 
