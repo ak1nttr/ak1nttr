@@ -1,5 +1,5 @@
 # About Me:
- 🌍 I'm based in Antalya Turkiye<br> ✉️ You can contact me at nsnr6458@gmail.com<br> 🚀 I'm currently working on Backend Web Development<br> 🧠  I'm learning Java Spring and C# - ASP.NET-Core<br> 🤝 I'm open to collaborating on Java , C# , Kotlin , TypeScript Skills
+ 🌍 I'm based in Antalya Türkiye<br> ✉️ You can contact me at nsnr6458@gmail.com<br> 🚀 I'm currently working on Backend Web Development<br> 🧠  I'm learning Java Spring<br> 🤝 I'm open to collaborating on Java , C# , PHP , TypeScript Skills
 
 
 ## 🌐 Socials:
@@ -12,4 +12,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ak1nttr&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
